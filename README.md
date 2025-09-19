@@ -1,2 +1,3 @@
-# .Net-training-in-pune
-Learn .NET in Pune with IntelliMindz – Master C#, ASP.NET, MVC, and .NET Core through hands-on projects and expert-led training. Gain industry-ready skills, receive certification, and get placement support to kickstart your career in software development. Flexible online and offline batches available.
+# dot-net-training-pune-intellimindz
+Learn .NET development with IntelliMindz through [Dot Net Training in Pune](https://intellimindz.com/dot-net-training-in-pune/).  
+Covers C#, ASP.NET, MVC, .NET Core, real-time projects, and industry-relevant frameworks.
